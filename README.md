@@ -1,0 +1,1 @@
+# act52-integral-activity-hash
