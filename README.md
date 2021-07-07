@@ -74,6 +74,5 @@ Por último, Realiza en forma individual una investigación y reflexión de la i
 
 ## <span style="color: rgb(26, 99, 169);">**¿Dónde la entrego?**</span>
 Esta actividad forma parte tanto de tu calificación final del curso, así como del portafolio de evidencias de las competencias a desarrollar del curso, por lo que se te pide que en forma individual:
-
-Realices una entrega del código fuente de la solución del problema, en la sección correspondiente dentro de esta plataforma, así como el documento de reflexión individual (**ReflexAct5.2.pdf**).
-En la carpeta personal llamada **TC1031(Portafolio_Final)** que generaste desde la entrega de la actividad 1.3 y que te servirá como preparación para la entrega del portafolio de competencias que se realizará al final del curso, coloca en la subcarpeta **Act5.2** tus archivos que solucionaron la <span style="text-decoration: underline;">actividad 5.2</span> así como el documento de reflexión individual (**ReflexAct5.2.pdf**) .
+* Realices una entrega del código fuente de la solución del problema, en la sección correspondiente dentro de esta plataforma, así como el documento de reflexión individual (**ReflexAct5.2.pdf**).
+En la carpeta personal llamada **TC1031(Portafolio_Final)** que generaste desde la entrega de la actividad 1.3 y que te servirá como preparación para la entrega del portafolio de competencias que se realizará al final del curso, coloca en la subcarpeta **Act5.2** tus archivos que solucionaron la <span style="text-decoration: underline;">actividad 5.2</span> así como el documento de reflexión individual (**ReflexAct5.2.pdf**).
