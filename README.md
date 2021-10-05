@@ -2,7 +2,7 @@
 # Act 5.2 - Actividad Integral sobre el uso de códigos hash (Evidencia Competencia)
 
 ## <span style="color: rgb(26, 99, 169);">¿Qué tengo que hacer?</span>
-Accede a la siguiente liga: [Act. 5.2](https://classroom.github.com/a/NH3xl2Ar) y acepta la tarea. Esto creará tu repositorio de trabajo. En él, encontrarás archivos de entrada, así como las salidas esperadas que podrás usar para probar tu implementación. También encontrarás un archivo "main.cpp". Ahí deberás implementar tu solución. En el archivo deberás colocar en la parte superior, en comentarios, tus datos. Por ejemplo:
+En este repositorio encontrarás los archivos de entrada, así como las salidas esperadas que podrás usar para probar tu implementación. También encontrarás un archivo "main.cpp". Ahí deberás implementar tu solución. En el archivo deberás colocar en la parte superior, en comentarios, tus datos. Por ejemplo:
 ```
 // =========================================================
 // File: main.cpp
@@ -57,7 +57,7 @@ diff mysolution1.txt output1.txt
 ```
 Si el segundo comando no tenga ninguna salida, sabrás que los resultados que obtuviste son los esperados. Recuerda actualizar tu repositorio (*git push*) cuando hayas terminado tu implementación.
 
-Por último, Realiza en forma individual una investigación y reflexión de la importancia y eficiencia del uso de grafos en una situación problema de esta naturaleza,  generando un documento llamado **"ReflexAct5.2.pdf "**.
+Por último, realiza una investigación y reflexión de la importancia y eficiencia del uso de las tablas hash para tales fines,  generando un documento llamado **"ReflexAct5.2.pdf"**
 
 ## <span style="color: rgb(26, 99, 169);">**¿Bajo qué criterios se evalúa mi evidencia?**</span>
 
